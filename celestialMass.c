@@ -1,3 +1,4 @@
+// Exercício 18 da primeira lista de Prog1
 #include <stdio.h>
 
 float getCelestial(int choice, float mass);
