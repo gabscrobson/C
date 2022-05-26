@@ -1,16 +1,13 @@
 Repositório com meus programas em C
 
-<b>caesar.c</b>
+<h1>caesar.c</h1>
   https://cs50.harvard.edu/x/2022/psets/2/caesar/
 
-<b>mario.c</b>
+<h1>mario.c</h1>
   https://cs50.harvard.edu/x/2022/psets/1/mario/more/
 
-<b>celestialMass.c</b>
-  Você resolveu dar uma força para a NASA, que deseja calcular o peso das pessoas em diferentes planetas do sistema solar. (Isso vai ter importantes consequências na 
-  colonização dos planetas pela humanidade: os gordinhos vão preferir planetas onde baixem de peso, os magrinhos vão querer o contrário). Escreva um programa que recebe 
-  o peso de uma pessoa (em newtons) e calcula o novo peso nos corpos celestes, de acordo com as constantes gravitacionais de cada planeta (estas constantes estão 
-  normalizadas em relação à constante da Terra), dadas abaixo:
+<h1>celestialMass.c</h1>
+   Você resolveu dar uma força para a NASA, que deseja calcular o peso das pessoas em diferentes planetas do sistema solar. (Isso vai ter importantes consequências na colonização dos planetas pela humanidade: os gordinhos vão preferir planetas onde baixem de peso, os magrinhos vão querer o contrário). Escreva um programa que recebe o peso de uma pessoa (em newtons) e calcula o novo peso nos corpos celestes, de acordo com as constantes gravitacionais de cada planeta (estas constantes estão normalizadas em relação à constante da Terra), dadas abaixo:
     
     Corpo celeste Fator de conversão
     Mercúrio 0.3649337410
