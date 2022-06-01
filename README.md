@@ -1,3 +1,12 @@
+<h1>boi.c</h1>
+  Num frigorífico existem 90 bois. Faça
+  um programa que leia o peso de 90 bois e diga:
+  • Quantos bois estão acima de 500kg
+  • Qual o peso do boi mais gordo.
+  • Qual o peso do boi mais magro.
+
+  Como saber o menor valor?
+
 <h1>caesar.c</h1>
   https://cs50.harvard.edu/x/2022/psets/2/caesar/
 
