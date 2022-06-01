@@ -1,6 +1,6 @@
 <h1>boi.c</h1>
   Num frigorífico existem 90 bois. Faça
-  um programa que leia o peso de 90 bois e diga:<br>
+  um programa que leia o peso de 90 bois e diga:<br><br>
   • Quantos bois estão acima de 500kg<br>
   • Qual o peso do boi mais gordo.<br>
   • Qual o peso do boi mais magro.<br>
