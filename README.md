@@ -29,3 +29,6 @@
     Plutão 0.2252803261
     
     Depois de fazer as conversões, imprima o quanto as pessoas pesariam se estivessem em cada planeta.
+
+<h1>readability.c</h1>
+  https://cs50.harvard.edu/x/2022/psets/2/readability/
